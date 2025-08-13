@@ -66,4 +66,4 @@ Outstanding tasks live in [TODO.md](TODO.md)
 
 * [FIGlet](http://www.figlet.org/)
 * [pyfiglet](https://github.com/pwaller/pyfiglet)
-* [pictext](https://pictex.readthedocs.io/)
+* [pictex](https://pictex.readthedocs.io/)
