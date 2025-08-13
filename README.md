@@ -1,6 +1,9 @@
 # fig 
 
-![fig](static/logo.png)
+<div align="center">
+    <img src="static/logo.png" alt="fig">
+</div>
+
 
 Figlet ASCII art text generator with PNG export capabilities.
 
